@@ -1,4 +1,4 @@
-### About me 👋
+## About me 👋
 
 I'm T.S. Lim, the CTO of [Mindvalley](https://www.mindvalley.com) & Founder of [Flexnode](https://flexnode.com). A Product Developer (Elixir, Phoenix, Ruby & Rails) & Entrepreneur based in Kota Kinabalu, Sabah, Malaysia. I'm interested in Product Development, Technology and Education. I am also the founder of [WebCamp KK](http://www.facebook.com/groups/webcamp.kk).
 
